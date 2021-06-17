@@ -1,5 +1,5 @@
 ---
-title: "Data-to-Graphs Project Page"
+title: "Data-to-Graphs and Back: Project Page"
 author: "VNV Rao"
 date: "6/16/2021"
 output: html_document
@@ -9,22 +9,21 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+# Introduction to the Project
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+The 21st century world is one inundated with data. Everything from policy decisions to political strategies to advanced science to leisure pursuits such as streaming options are all based on data driven decisions. While complex analytics may be driving these processes, visualizations have proliferated throughout every day life as a new standard for individuals to consume information. From sports broadcasts to instagram pages about the Bachelor, modern data visualizations appear to be a mainstay for the coming years. 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Accordingly, statistics and data science curricula are adapting to teach students how to critically consume these modern data visualizations and also how to produce them. Yet the job of the teacher is no trivial thing. Teachers must not only consider how to teach (pedagogy), but also know what to teach (content), and be skilled in technology. This technical pedagogical content knowledge (TPCK) takes training and practice. 
 
-```{r cars}
-summary(cars)
-```
+To help inform the ways in which researchers can support teachers as they deliver modern data science curricula that include complex visualizations, this project investigates teachers' reasoning about the relationships between modern visualizations and their underlying data structures. 
 
-## Including Plots
+# Data-to-Graphs and Back @ IASE 2021
 
-You can also embed plots, for example:
+[Our Abstract]()
+[Our Poster](https://github.com/RaoVNV/Data-to-Graphs/blob/main/iase-2021-poster.pdf)
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+# Upcoming Paper in Preparation
+
+
+
