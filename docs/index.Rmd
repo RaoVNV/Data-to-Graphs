@@ -25,7 +25,11 @@ In the Fall of 2020 and again in the Spring of 2021, we recruited current high s
 
 # Data-to-Graphs and Back @ IASE 2021
 
-We presented our first analyses and results of this data at the [IASE 2021 Satellite Conference](https://iase-web.org/conference/satellite21/). Our results are summarized in [our poster](https://github.com/RaoVNV/Data-to-Graphs/blob/main/iase-2021-poster.pdf) as well as [our poster abstract](https://github.com/RaoVNV/Data-to-Graphs/blob/main/IASE-2021-Final-Abstract.pdf). 
+We presented our first analyses and results of this data at the [IASE 2021 Satellite Conference](https://iase-web.org/conference/satellite21/). Our results are summarized in our poster as well as our poster abstract, which can be viewed via the following links: 
+
+[IASE 2021 Poster](https://github.com/RaoVNV/Data-to-Graphs/blob/main/iase-2021-poster.pdf)
+<br>
+[IASE 2021 Poster Abstract](https://github.com/RaoVNV/Data-to-Graphs/blob/main/IASE-2021-Final-Abstract.pdf) 
 
 
 # Upcoming Paper in Preparation
