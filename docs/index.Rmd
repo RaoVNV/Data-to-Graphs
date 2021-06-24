@@ -16,7 +16,7 @@ In alphabetical order:
 - Chelsey Legacy
 - Jonathan M. Brown
 - Robert delMas
-- V.N. Vimal Rao
+- [V.N. Vimal Rao](https://raovnv.github.io)
 
 # Introduction to the Project
 
@@ -44,6 +44,3 @@ We presented our first analyses and results of this data at the [IASE 2021 Satel
 # Upcoming Paper in Preparation
 
 We are currently working on a manuscript that will present the results of our project in more detail. Stay tuned!
-
-
-
