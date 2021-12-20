@@ -32,7 +32,12 @@ The activities used in each PD session were designed to elicit participants’ r
 
 <img src="img/activityschedule.jpg" />
 
-A copy of each activity is available here: [PD Activities](https://github.com/RaoVNV/Data-to-Graphs/activities)
+A copy of each activity is available here: 
+
+- Twilight Talkers: [Part 1](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Twilight%20Talkers%20Part%201.docx), [Part 2](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Twilight%20Talkers%20Part%202.docx), [Part 3](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Twilight%20Talkers%20Part%203.docx), [Part 4](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Twilight%20Talkers%20Part%204.docx), [Part 5](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Twilight%20Talkers%20Part%205.docx)
+- Romeo & Juliet: [Part 1](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Romeo%20and%20Juliet%20Part%201.docx), [Part 2](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Romeo%20and%20Juliet%20Part%202.docx)
+- Gapminder: [Pre-activity](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Gapminder%20pre-activity.docx), [Main activity](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Gapminder.docx)
+- [Traffic Visualization](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Traffic%20Visualization.pdf)
 
 # IASE 2021
 
