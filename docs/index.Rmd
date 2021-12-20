@@ -22,9 +22,7 @@ In alphabetical order:
 
 The 21st century world is one inundated with data. While complex analytics may be driving data driven decision processes, visualizations have proliferated throughout every day life as a new standard for individuals to consume information. From sports broadcasts to instagram pages about the Bachelor, modern data visualizations appear to be a mainstay for the coming years. 
 
-Accordingly, statistics and data science curricula are adapting to teach students how to critically consume these modern data visualizations and also how to produce them. Yet the job of the teacher is no trivial thing. Teachers must not only consider how to teach (pedagogy), but also know what to teach (content), and be skilled in technology. This technical pedagogical content knowledge (TPCK) takes training and practice. 
-
-To help inform the ways in which researchers can support teachers as they deliver modern data science curricula that include complex visualizations, this project investigates teachers' reasoning about the relationships between modern visualizations and their underlying data structures. 
+Accordingly, schools are adapting to teach students how to critically consume these modern data visualizations and also how to produce them. To help inform the ways in which researchers can support teachers as they deliver modern data science curricula that include complex visualizations, this project investigates teachers' reasoning about the relationships between modern visualizations and their underlying data structures. 
 
 # Activities
 
@@ -34,11 +32,11 @@ The activities used in each PD session were designed to elicit participants’ r
 
 <img src="img/activityschedule.jpg" />
 
-A copy of each activity is available here: [PD Activities](https://drive.google.com/drive/folders/1j4P7PkG-RNW8AYA-rT2aFBiv3WlUoXZR?usp=sharing)
+A copy of each activity is available here: [PD Activities](https://github.com/RaoVNV/Data-to-Graphs/activities)
 
 # IASE 2021
 
-We presented our preliminary analyses and results of data collected in the first two of the three PD sessions at the [IASE 2021 Satellite Conference](https://iase-web.org/conference/satellite21/). Our results are summarized in our poster as well as our poster abstract, which can be viewed via the following links: 
+We presented our preliminary analyses of data collected in the first two of the three PD sessions at the [IASE 2021 Satellite Conference](https://iase-web.org/conference/satellite21/). Our results are summarized in our poster as well as our poster abstract, which can be viewed via the following links: 
 
 [IASE 2021 Video Presentation](https://youtu.be/XYyzb3Bpp90)
 <br>
