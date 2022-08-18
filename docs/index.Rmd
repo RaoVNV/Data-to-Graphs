@@ -15,6 +15,7 @@ In alphabetical order:
 - [Andrew Zieffler](https://www.datadreaming.org/top/about/)
 - Chelsey Legacy
 - Jonathan M. Brown
+- Regina Lisinker
 - Robert delMas
 - [V.N. Vimal Rao](https://raovnv.github.io/research.html)
 
@@ -49,6 +50,24 @@ We presented our preliminary analyses of data collected in the first two of the 
 <br>
 [IASE 2021 Poster Abstract](https://github.com/RaoVNV/Data-to-Graphs/blob/main/IASE-2021-Final-Abstract.pdf) 
 
-# Upcoming Paper in Preparation
+# SRTL-12
 
-We are currently working on a manuscript that will present the results of our project in more detail. Stay tuned!
+Chelsey Legacy was invited to and presented results from all three PD sessions at the 12th International Research Forum on Statistical Reasoning, Thinking, & Literacy [(SRTL-12)](https://blogs.uni-paderborn.de/srtl/srtl-12/).
+
+# Upcoming Papers in Preparation
+
+We are currently working on two manuscripts that will present the results of our project in more detail. The first will focus on the study and findings as relates to teachers' reasoning about data, graphs, and aesthetic mappings linking the two. The second will focus on the designed learning trajectories of the activities and findings as relates to the implementation and revision of the activities.
+
+Stay tuned!
+
+# Citations
+
+Rao, V.N.V., Legacy, C., Brown, J.M., Zieffler, A., & delMas, R. (2021, August). *Data-to-graphs and back: Secondary teachers’ reasoning about aesthetic mappings in data visualization* [Poster presentation]. 12th Annual Satellite Conference of the International Association for Statistical Education, online. https://iase-web.org/conference/satellite21/
+
+Rao, V.N.V., Legacy, C., Brown, J.M., Zieffler, A., & delMas, R. (2021). Data-to-graphs and back: Secondary teachers’ reasoning about aesthetic mappings in data visualization. In R. Helenius & E. Falck (Eds.), *Statistics Education in the Era of Data Science: Proceedings of the Satellite Conference of the International Association for Statistical Education*. https://iase-web.org/Conference_Proceedings.php.
+
+Legacy, C., Zieffler, A., delMas, R., & Rao, V.N.V. (2022, January). *Data to graphs and back: Secondary teachers’ reasoning about the aesthetic mappings that link data and visualizations* [Invited Presentation]. 12th International Research Forum on Statistical Reasoning, Thinking, and Literacy (SRTL-12), online. Sponsored by Dr. Katie Makar & Dr. Dani Ben-Zvi. 
+
+Legacy, C., Zieffler, A., Rao, V.N.V., & delMas, R. (in preparation). *Data-to-graphs and back: Secondary teachers’ reasoning about aesthetic mappings in data visualization.*
+
+Rao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (in preparation). *Building notions of tidy data.*
