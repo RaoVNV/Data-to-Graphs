@@ -66,7 +66,9 @@ Rao, V.N.V., Legacy, C., Brown, J.M., Zieffler, A., & delMas, R. (2021, August).
 
 Rao, V.N.V., Legacy, C., Brown, J.M., Zieffler, A., & delMas, R. (2021). Data-to-graphs and back: Secondary teachers’ reasoning about aesthetic mappings in data visualization. In R. Helenius & E. Falck (Eds.), *Statistics Education in the Era of Data Science: Proceedings of the Satellite Conference of the International Association for Statistical Education*. https://iase-web.org/Conference_Proceedings.php.
 
-Legacy, C., Zieffler, A., delMas, R., & Rao, V.N.V. (2022, January). *Data to graphs and back: Secondary teachers’ reasoning about the aesthetic mappings that link data and visualizations* [Invited Presentation]. 12th International Research Forum on Statistical Reasoning, Thinking, and Literacy (SRTL-12), online. Sponsored by Dr. Katie Makar & Dr. Dani Ben-Zvi. 
+Legacy, C., Zieffler, A., delMas, R., & Rao, V.N.V. (2022, January). *Data to graphs and back: Secondary teachers’ reasoning about the aesthetic mappings that link data and visualizations* [Paper Presentation]. 12th International Research Forum on Statistical Reasoning, Thinking, and Literacy (SRTL-12), online.
+
+Legacy, C., Rao, V.N.V., Zieffler, A., & delMas, R. (in press). Data to graphs and back: Secondary teachers’ reasoning about the aesthetic mappings that link data and visualizations. In K. Makar, and D. Ben-Zvi (Eds.), *Proceedings of the 12th International Research Forum on Statistical Reasoning, Thinking, and Literacy* (pp. TBD). 
 
 Legacy, C., Zieffler, A., Rao, V.N.V., & delMas, R. (in preparation). *Data-to-graphs and back: Secondary teachers’ reasoning about aesthetic mappings in data visualization.*
 
