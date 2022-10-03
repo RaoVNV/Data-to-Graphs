@@ -1,5 +1,5 @@
 ---
-title: "Data-to-Graphs and Back: Project Page"
+title: "Biostatistics Literacy: Project Page"
 output: rmdformats::readthedown
 ---
 
@@ -12,64 +12,26 @@ library(rmdformats)
 
 In alphabetical order: 
 
-- [Andrew Zieffler](https://www.datadreaming.org/top/about/)
-- Chelsey Legacy
-- Jonathan M. Brown
-- Regina Lisinker
-- Robert delMas
+- Laura Le
+- Mike Jiroutek
+- Steven Foti
 - [V.N. Vimal Rao](https://raovnv.github.io/research.html)
 
 # Introduction to the Project
 
-The 21st century world is one inundated with data. While complex analytics may be driving data driven decision processes, visualizations have proliferated throughout every day life as a new standard for individuals to consume information. From sports broadcasts to instagram pages about the Bachelor, modern data visualizations appear to be a mainstay for the coming years. 
+Being able to critically evaluate quantitative methods used by studies in the medical sciences is an important skill for students in the medical and public health field. These skills are distinct from some of the content traditionally emphasized in introductory statistics and biostatistics classes, such as learning how to run statistical analysis in R or SAS. 
 
-Accordingly, schools are adapting to teach students how to critically consume these modern data visualizations and also how to produce them. To help inform the ways in which researchers can support teachers as they deliver modern data science curricula that include complex visualizations, this project investigates teachers' reasoning about the relationships between modern visualizations and their underlying data structures. 
+Instead, we teach a course specifically focused on developing students' biostatistical literacy, with a focus on reading methods and results sections and critically evaluating their application. The course was originally developed at the University of Minnesota, by Dr. Laura Le, but we have each adapted it at our own universities, and adapted it for different course formats and instructional level. 
 
-# Activities
+The goal of this project is to share our resources with other biostatistics instructors, describe why and how we implemented these courses and evaluate their efficacy in achieving program-level student learning objectives, and provide a roadmap for other biostatistics instructors interested in implementing a similar course at their institution. 
 
-We recruited high school statistics teachers from the University of Minnesota's [College in the Schools](https://ccaps.umn.edu/college-in-the-schools) program to participate in a series of professional development sessions. 
+# Upcoming Work
 
-The activities used in each PD session were designed to elicit participants’ reasoning when extracting data from a graph or producing a graph from data in the context of complex multivariate relationships.
-
-<img src="img/activityschedule.jpg" />
-
-A copy of each activity is available here: 
-
-- Twilight Talkers: [Part 1](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Twilight%20Talkers%20Part%201.docx), [Part 2](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Twilight%20Talkers%20Part%202.docx), [Part 3](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Twilight%20Talkers%20Part%203.docx), [Part 4](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Twilight%20Talkers%20Part%204.docx), [Part 5](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Twilight%20Talkers%20Part%205.docx)
-- Romeo & Juliet: [Part 1](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Romeo%20and%20Juliet%20Part%201.docx), [Part 2](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Romeo%20and%20Juliet%20Part%202.docx)
-- Gapminder: [Pre-activity](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Gapminder%20pre-activity.docx), [Main activity](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Gapminder.docx)
-- [Traffic Visualization](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Traffic%20Visualization.pdf)
-
-# IASE 2021
-
-We presented our preliminary analyses of data collected in the first two of the three PD sessions at the [IASE 2021 Satellite Conference](https://iase-web.org/conference/satellite21/). Our results are summarized in our poster as well as our poster abstract, which can be viewed via the following links: 
-
-[IASE 2021 Video Presentation](https://youtu.be/XYyzb3Bpp90)
-<br>
-[IASE 2021 Poster](https://github.com/RaoVNV/Data-to-Graphs/blob/main/iase-2021-poster.pdf)
-<br>
-[IASE 2021 Poster Abstract](https://github.com/RaoVNV/Data-to-Graphs/blob/main/IASE-2021-Final-Abstract.pdf) 
-
-# SRTL-12
-
-Chelsey Legacy was invited to and presented results from all three PD sessions at the 12th International Research Forum on Statistical Reasoning, Thinking, & Literacy [(SRTL-12)](https://blogs.uni-paderborn.de/srtl/srtl-12/).
-
-# Upcoming Papers in Preparation
-
-We are currently working on two manuscripts that will present the results of our project in more detail. The first will focus on the study and findings as relates to teachers' reasoning about data, graphs, and aesthetic mappings linking the two. The second will focus on the designed learning trajectories of the activities and findings as relates to the implementation and revision of the activities.
+We are currently working on a poster to be presented at the 2023 US Conference on Teaching Statistics.
 
 Stay tuned!
 
 # Citations
 
-Rao, V.N.V., Legacy, C., Brown, J.M., Zieffler, A., & delMas, R. (2021, August). *Data-to-graphs and back: Secondary teachers’ reasoning about aesthetic mappings in data visualization* [Poster presentation]. 12th Annual Satellite Conference of the International Association for Statistical Education, online. https://iase-web.org/conference/satellite21/
 
-Rao, V.N.V., Legacy, C., Brown, J.M., Zieffler, A., & delMas, R. (2021). Data-to-graphs and back: Secondary teachers’ reasoning about aesthetic mappings in data visualization. In R. Helenius & E. Falck (Eds.), *Statistics Education in the Era of Data Science: Proceedings of the Satellite Conference of the International Association for Statistical Education*. https://iase-web.org/Conference_Proceedings.php.
 
-Legacy, C., Zieffler, A., delMas, R., & Rao, V.N.V. (2022, January). *Data to graphs and back: Secondary teachers’ reasoning about the aesthetic mappings that link data and visualizations* [Paper Presentation]. 12th International Research Forum on Statistical Reasoning, Thinking, and Literacy (SRTL-12), online.
-
-Legacy, C., Rao, V.N.V., Zieffler, A., & delMas, R. (in press). Data to graphs and back: Secondary teachers’ reasoning about the aesthetic mappings that link data and visualizations. In K. Makar, and D. Ben-Zvi (Eds.), *Proceedings of the 12th International Research Forum on Statistical Reasoning, Thinking, and Literacy* (pp. TBD). 
-
-Legacy, C., Zieffler, A., Rao, V.N.V., & delMas, R. (in preparation). *Data-to-graphs and back: Secondary teachers’ reasoning about aesthetic mappings in data visualization.*
-
-Rao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (in preparation). *Building notions of tidy data.*
