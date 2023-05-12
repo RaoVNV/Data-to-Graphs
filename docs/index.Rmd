@@ -21,9 +21,9 @@ In alphabetical order:
 
 # Introduction to the Project
 
-The 21st century world is one inundated with data. While complex analytics may be driving data driven decision processes, visualizations have proliferated throughout every day life as a new standard for individuals to consume information. From sports broadcasts to instagram pages about the Bachelor, modern data visualizations appear to be a mainstay for the coming years. 
+The 21st century world is one inundated with data. While complex multivariate analytics may be driving data driven decision processes, visualizations have proliferated throughout every day life as a new standard for individuals to consume information. From updates on the spread of COVID-19 to instagram pages about the Bachelor, modern data visualizations appear to be a mainstay. 
 
-Accordingly, schools are adapting to teach students how to critically consume these modern data visualizations and also how to produce them. To help inform the ways in which researchers can support teachers as they deliver modern data science curricula that include complex visualizations, this project investigates teachers' reasoning about the relationships between modern visualizations and their underlying data structures. 
+Accordingly, schools are adapting to teach students how to critically consume these modern multivariate data visualizations and also how to produce them. To help inform the ways in which researchers can support teachers as they deliver multivariate data science curricula that include complex visualizations, this project investigates teachers' reasoning about the relationships between multivariate visualizations and their underlying data structures. 
 
 # Activities
 
@@ -31,7 +31,7 @@ We recruited high school statistics teachers from the University of Minnesota's 
 
 The activities used in each PD session were designed to elicit participants’ reasoning when extracting data from a graph or producing a graph from data in the context of complex multivariate relationships.
 
-<img src="img/activityschedule.jpg" />
+<img src="img/activityschedule.png" />
 
 A copy of each activity is available here: 
 
@@ -39,6 +39,8 @@ A copy of each activity is available here:
 - Romeo & Juliet: [Part 1](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Romeo%20and%20Juliet%20Part%201.docx), [Part 2](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Romeo%20and%20Juliet%20Part%202.docx)
 - Gapminder: [Pre-activity](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Gapminder%20pre-activity.docx), [Main activity](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Gapminder.docx)
 - [Traffic Visualization](https://github.com/RaoVNV/Data-to-Graphs/raw/main/activities/Traffic%20Visualization.pdf)
+
+For more on the activity design and implementation, see our 2023 paper in *Teaching Statistics* (link below). 
 
 # IASE 2021
 
@@ -54,22 +56,22 @@ We presented our preliminary analyses of data collected in the first two of the 
 
 Chelsey Legacy was invited to and presented results from all three PD sessions at the 12th International Research Forum on Statistical Reasoning, Thinking, & Literacy [(SRTL-12)](https://blogs.uni-paderborn.de/srtl/srtl-12/).
 
-# Upcoming Papers in Preparation
+# Journal Papers
 
-We are currently working on two manuscripts that will present the results of our project in more detail. The first will focus on the study and findings as relates to teachers' reasoning about data, graphs, and aesthetic mappings linking the two. The second will focus on the designed learning trajectories of the activities and findings as relates to the implementation and revision of the activities.
+We summarized the project results in two papers, one appearing in *Teaching Statistics* (TS) and the other under review in the *Statistics Education Research Journal* (SERJ). 
 
-Stay tuned!
+The *TS* paper focuses on the design and implementation of the activities, and is intended for individuals who would be interested in implementing the activities in their classrooms or in building on top of the activities, and in general the broader statistics education teaching community. 
+
+The *SERJ* paper focuses on the methods and results of our analyses of teachers' reasoning, and is intended for individuals who would be interested in conducting similar research on multivariate reasoning, and in general the broader statistics education research community. 
 
 # Citations
 
-Rao, V.N.V., Legacy, C., Brown, J.M., Zieffler, A., & delMas, R. (2021, August). *Data-to-graphs and back: Secondary teachers’ reasoning about aesthetic mappings in data visualization* [Poster presentation]. 12th Annual Satellite Conference of the International Association for Statistical Education, online. https://iase-web.org/conference/satellite21/
+Legacy, C., Zieffler, A., Rao, V.N.V., & delMas, R. (in revision). Vampires and star-crossed lovers: Secondary teachers’ reasoning about the connections between multivariate data and visualization. *Statistics Education Research Journal.*
 
-Rao, V.N.V., Legacy, C., Brown, J.M., Zieffler, A., & delMas, R. (2021). Data-to-graphs and back: Secondary teachers’ reasoning about aesthetic mappings in data visualization. In R. Helenius & E. Falck (Eds.), *Statistics Education in the Era of Data Science: Proceedings of the Satellite Conference of the International Association for Statistical Education*. https://iase-web.org/Conference_Proceedings.php.
+Rao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (2023). Designing a sequence of activities to build reasoning about data and visualization. *Teaching Statistics*. http://doi.org/10.1111/test.12341.
 
 Legacy, C., Zieffler, A., delMas, R., & Rao, V.N.V. (2022, January). *Data to graphs and back: Secondary teachers’ reasoning about the aesthetic mappings that link data and visualizations* [Paper Presentation]. 12th International Research Forum on Statistical Reasoning, Thinking, and Literacy (SRTL-12), online.
 
-Legacy, C., Rao, V.N.V., Zieffler, A., & delMas, R. (in press). Data to graphs and back: Secondary teachers’ reasoning about the aesthetic mappings that link data and visualizations. In K. Makar, and D. Ben-Zvi (Eds.), *Proceedings of the 12th International Research Forum on Statistical Reasoning, Thinking, and Literacy* (pp. TBD). 
+Rao, V.N.V., Legacy, C., Brown, J.M., Zieffler, A., & delMas, R. (2021). Data-to-graphs and back: Secondary teachers’ reasoning about aesthetic mappings in data visualization. In R. Helenius & E. Falck (Eds.), *Statistics Education in the Era of Data Science: Proceedings of the Satellite Conference of the International Association for Statistical Education*. https://iase-web.org/Conference_Proceedings.php.
 
-Legacy, C., Zieffler, A., Rao, V.N.V., & delMas, R. (in preparation). *Data-to-graphs and back: Secondary teachers’ reasoning about aesthetic mappings in data visualization.*
-
-Rao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (in preparation). *Building notions of tidy data.*
+Rao, V.N.V., Legacy, C., Brown, J.M., Zieffler, A., & delMas, R. (2021, August). *Data-to-graphs and back: Secondary teachers’ reasoning about aesthetic mappings in data visualization* [Poster presentation]. 12th Annual Satellite Conference of the International Association for Statistical Education, online. https://iase-web.org/conference/satellite21/
